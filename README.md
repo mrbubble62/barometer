@@ -2,7 +2,8 @@
 ## NMEA2000 CAN Bus
 
 Environment sensor sends ressure, humidity and temperature to N2K bus.
-e-Paper scrolling graph or Barograph displays log of pressure, humidity and temperature, displays 48h of readings.
+## e-Paper scrolling graph
+e-Paper Barograph displays log of pressure, humidity and temperature, displays 48h of readings.
 
 ## Power saving
 On bus power send readings once per second, update display evey 5 mins.
